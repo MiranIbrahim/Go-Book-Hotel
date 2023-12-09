@@ -1,0 +1,6 @@
+[submodule "client-side"]
+	path = client-side
+	url = https://github.com/MiranIbrahim/Go-Book-Hotels-Client.git
+[submodule "server-side"]
+	path = server-side
+	url = https://github.com/MiranIbrahim/Go-Book-Hotels-Server.git
